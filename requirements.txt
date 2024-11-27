@@ -1,0 +1,16 @@
+python-dotenv
+requests
+uvicorn
+azure-storage-blob
+openai
+python-multipart
+langchain
+langchain-openai
+langchain-community
+gradio
+tqdm
+pydantic
+azure-core
+jupyter
+certifi
+pip-system-certs
