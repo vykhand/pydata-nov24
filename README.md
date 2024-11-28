@@ -13,8 +13,13 @@ This repository contains the code used for demos at the PyData Ljubljana Novembe
 ## Setting up the environment
 
 1. Create Azure OpenAI and Azure Search services
-
-2. Create the .env file with the following content:
+1. Setup Python interpreter and install the requirements
+    ```
+    python -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
+1. Create the .env file with the following content:
 
 ```
 LOG_LEVEL="DEBUG"
